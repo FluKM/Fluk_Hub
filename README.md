@@ -1,4 +1,4 @@
-# Fluk_hub
+# Fluk_Hub
 
 Welcome to Fluk_hub, a versatile and inclusive repository that serves as a centralized hub for all your projects, regardless of the programming language used. Here, you can gather, manage, and showcase your diverse range of projects, creating a comprehensive portfolio of your work.
 
