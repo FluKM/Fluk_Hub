@@ -14,3 +14,5 @@ Key Features:
 7.	Project Showcasing: Present your best projects and highlight your skills to prospective employers, clients, or collaborators. Craft       an impressive portfolio by showcasing selected projects, allowing others to explore your capabilities and creativity.
 
 Fluk_hub is the ideal repository to house your diverse range of projects, regardless of their programming language. Whether you're an individual developer or part of a team, this repository empowers you to gather, manage, and showcase your projects in one centralized location. Start building, collaborating, and exploring the rich world of projects with Fluk_hub today.
+
+© FluKM 2023
